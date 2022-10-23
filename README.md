@@ -10,12 +10,17 @@
 ### ╠• Android
 ### ╠• iOS
 # ╔• Trackers
-### ╠• General Trackers
 ### ╠• Private Trackers
+### ╠• General Trackers
+# ╔• Usenet
+### ╠• Usenet Guides
+### ╠• Usenet Indexers
+### ╠• Usenet Provider
+
 
 # Contents
-## ╔• Windows
-#### ╠• Website's For Cracked Software
+## ╔• Windows:
+#### ╠• Website's For Cracked Software:
 * [Filecr](https://filecr.com/windows/) - Torrents
 * [Sanet/windows](https://sanet.st/windows/) - Nitroflare/Rapidgator
 * [Getintopc](https://getintopc.com/) - DDL
@@ -23,7 +28,7 @@
 * [Windows ISO](https://tb.rg-adguard.net/public.php) - DDL 
  
 ## ╔• MacOS:
-#### ╠• Website:
+#### ╠• Website's For Cracked Software:
 * [cmacked](https://cmacked.com/)
 * [Filecr](https://filecr.com/macos/) - Torrents
 * [Sanet](https://sanet.st/mac-software/) - Nitroflare/Rapidgator
@@ -35,31 +40,69 @@
 * [Haxmac](https://haxmac.cc/) - dropapk, dropgalaxy, usersdrive
 * [Crackhash](https://crackshash.com/category/macos/) - Torrent
 
-
 ## ╔• Microsoft:
 #### ╠• Windows/Office Activators: 
 * [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) - HWID or KMS38 activation for Windows 10/11 + Windows edition switcher
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - MS activation for Office/Windows
-#### ╠• MacOS Activators
+#### ╠• MacOS Activators:
 * [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) - Volume License packages for MacOS
 * [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29) - current as of Jan 2021
 
-
-
-
 ## ╔• Android:
-#### ╠• Website's For Modded Apps
+#### ╠• Website's For Modded Apps:
 * [Mobilism](https://mobilism.org/)
 #### ╠• Telegram Channels:
 * [RBMods](https://t.me/RBMods)
 * [ModdedCentral](https://t.me/ModdedCentral2)
 
+## ╔•iOS:
+#### ╠• Website's For Modded Apps
+* [Appdb](https://appdb.to/)
+* [Iosgods](https://iosgods.com/)
 
-## ╔• Games
+## ╔• Games:
 #### ╠•PC Games
 * [fitgirl](http://fitgirl-repacks.site/)
 * [dodi](https://dodi-repacks.site/)
 * [cs.rin.ru](https://cs.rin.ru/)
+#### ╠• Android Games:
+* [Androeed](https://www.androeed.ru/)
+* [An1](https://an1.com/)
+
+## ╔• Private Trackers
+#### ╠• Guides
+* [Private Trackers Index](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0)
+* [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+* [Release Groups](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/edit?usp=sharing) - Here's a tier list if you wanna know which groups to generally go for/avoid
+* [Scenexp2p](https://www.notion.so/Pirates-c6362fa7a32a47c5904b0509e9ca1cd3) - Article providing basic knowledge and working of scene and p2p trackers
+* [Private Trackers Guide](https://rentry.co/private-trackers) - Everything you need to know about private trackers 
+
+## ╔• Usenet Guides
+#### ╠• Guides plus resources that will help you understand everything about Usenet:
+* [Saw's Usenet Guide](https://telegra.ph/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) - Eveeything you need to know about Usenet
+* [r/Usenet wiki](https://www.reddit.com/r/usenet/wiki/index/) - wiki of Usenet reddit group with loads of resources to help you
+
+## ╔•Usenet Indexers
+#### ╠• A list of indexers to start your journey
+* althub.co.za - it is decent and free to signup
+* Drunken Slug - good indexer
+* NZB Finder - it is okay not mandatory
+* nzb.su - budget not worth
+* NZBCat - Good indexer
+* Nzbgeek - good indexer free signup
+* nzbplanet- budget not worth
+* wtfnzb - "White-Whale" hard to get in, has a free trial to test things out
+* SimplyNzb - garbage
+* OMGWTFNZB - GOD TIER
+* nzbs - GOD TIER X3
+
+## ╔•Usenet Provider
+#### ╠• A list of Providers You can go for
+* Eweka
+* Newshosting
+* EasyNews
+
+
 
 
 ## ╔• General Notes :
@@ -70,5 +113,3 @@
 
 #### ╠• MacOS:
 ###### *NOTE1: ignore fake 'download now' buttons in [Crackhash](https://crackshash.com/category/macos/)* 
-
-
