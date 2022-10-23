@@ -1,25 +1,28 @@
 # TheArchivists Links
 ![](https://github.com/TheArchivists/Links/blob/dev/113290407.png)
 
+# What is TheArchivists Link?
+This is A batchup Collection of all the Resources shared by people in TheArchivist.
+
 # The Index
-# ╔• Software
+## ╔• Software
 ### ╠• [Windows](https://github.com/TheArchivists/Links/edit/dev/README.md#-windows-2)
 ### ╠• [MacOS](https://github.com/TheArchivists/Links/edit/dev/README.md#-macos-2)
 ### ╠• [Microsoft](https://github.com/TheArchivists/Links/edit/dev/README.md#-microsoft-1)
-# ╔• Apps
+## ╔• Apps
 ### ╠• [Android](https://github.com/TheArchivists/Links/edit/dev/README.md#-android-1)
 ### ╠• [iOS](https://github.com/TheArchivists/Links/edit/dev/README.md#ios)
-# ╔• Games
+## ╔• Games
 ### ╠• [PC Games](https://github.com/TheArchivists/Links/edit/dev/README.md#-pc-games-1)
 ### ╠• [Android Games](https://github.com/TheArchivists/Links/edit/dev/README.md#android-games)
-# ╔• Trackers
+## ╔• Trackers
 ### ╠• [Private Trackers](https://github.com/TheArchivists/Links/edit/dev/README.md#-private-trackers-1)
 ### ╠• General Trackers
-# ╔• Usenet
+## ╔• Usenet
 ### ╠• [Usenet Guides](https://github.com/TheArchivists/Links/edit/dev/README.md#-usenet-guides-1)
 ### ╠• [Usenet Indexers](https://github.com/TheArchivists/Links/edit/dev/README.md#usenet-indexers)
 ### ╠• [Usenet Provider](https://github.com/TheArchivists/Links/edit/dev/README.md#usenet-provider)
-# ╔• General Notes
+## ╔• General Notes
 ### ╠• [Windows](https://github.com/TheArchivists/Links/edit/dev/README.md#-windows-3)
 ### ╠• [MacOS](https://github.com/TheArchivists/Links/edit/dev/README.md#-macos-3)
 
