@@ -3,22 +3,25 @@
 
 # The Index
 # ╔• Software
-### ╠• Windows
-### ╠• MacOS
-### ╠• Microsoft
+### ╠• [Windows](https://github.com/TheArchivists/Links/edit/dev/README.md#-windows-2)
+### ╠• [MacOS](https://github.com/TheArchivists/Links/edit/dev/README.md#-macos-2)
+### ╠• [Microsoft](https://github.com/TheArchivists/Links/edit/dev/README.md#-microsoft-1)
 # ╔• Apps
-### ╠• Android
-### ╠• iOS
+### ╠• [Android](https://github.com/TheArchivists/Links/edit/dev/README.md#-android-1)
+### ╠• [iOS](https://github.com/TheArchivists/Links/edit/dev/README.md#ios)
+# ╔• Games
+### ╠• [PC Games](https://github.com/TheArchivists/Links/edit/dev/README.md#-pc-games-1)
+### ╠• [Android Games](https://github.com/TheArchivists/Links/edit/dev/README.md#android-games)
 # ╔• Trackers
-### ╠• Private Trackers
+### ╠• [Private Trackers](https://github.com/TheArchivists/Links/edit/dev/README.md#-private-trackers-1)
 ### ╠• General Trackers
 # ╔• Usenet
-### ╠• Usenet Guides
-### ╠• Usenet Indexers
-### ╠• Usenet Provider
+### ╠• [Usenet Guides](https://github.com/TheArchivists/Links/edit/dev/README.md#-usenet-guides-1)
+### ╠• [Usenet Indexers](https://github.com/TheArchivists/Links/edit/dev/README.md#usenet-indexers)
+### ╠• [Usenet Provider](https://github.com/TheArchivists/Links/edit/dev/README.md#usenet-provider)
 # ╔• General Notes
-### ╠• Windows
-### ╠• MacOS
+### ╠• [Windows](https://github.com/TheArchivists/Links/edit/dev/README.md#-windows-3)
+### ╠• [MacOS](https://github.com/TheArchivists/Links/edit/dev/README.md#-macos-3)
 
 # Contents
 ## ╔• Windows:
@@ -58,16 +61,17 @@
 * [ModdedCentral](https://t.me/ModdedCentral2)
 
 ## ╔•iOS:
-#### ╠• Website's For Modded Apps
+#### ╠• Website's For Modded Apps:
 * [Appdb](https://appdb.to/)
 * [Iosgods](https://iosgods.com/)
 
-## ╔• Games:
-#### ╠•PC Games
+## ╔• PC Games:
+#### ╠•Repacks:
 * [fitgirl](http://fitgirl-repacks.site/)
 * [dodi](https://dodi-repacks.site/)
 * [cs.rin.ru](https://cs.rin.ru/)
-#### ╠• Android Games:
+## ╔•Android Games:
+#### ╠• Website's For Modded Apps:
 * [Androeed](https://www.androeed.ru/)
 * [An1](https://an1.com/)
 
@@ -85,7 +89,7 @@
 * [r/Usenet wiki](https://www.reddit.com/r/usenet/wiki/index/) - wiki of Usenet reddit group with loads of resources to help you
 
 ## ╔•Usenet Indexers
-#### ╠• A list of indexers to start your journey
+#### ╠• A list of indexers to start your journey:
 * althub.co.za - it is decent and free to signup
 * Drunken Slug - good indexer
 * NZB Finder - it is okay not mandatory
@@ -99,14 +103,11 @@
 * nzbs - GOD TIER X3
 
 ## ╔•Usenet Provider
-#### ╠• A list of Providers You can go for
+#### ╠• A list of Providers You can go for:
 * [Eweka](https://www.eweka.nl/)
 * [Newshosting](https://www.newshosting.com/)
 * [EasyNews](https://easynews.com/)
 * [Usenet provider map](https://svgshare.com/i/iG8.svg)
-
-
-
 
 ## ╔• General Notes :
 #### ╠• Windows:
