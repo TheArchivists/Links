@@ -16,7 +16,9 @@
 ### ╠• Usenet Guides
 ### ╠• Usenet Indexers
 ### ╠• Usenet Provider
-
+# ╔• General Notes
+### ╠• Windows
+### ╠• MacOS
 
 # Contents
 ## ╔• Windows:
@@ -98,9 +100,10 @@
 
 ## ╔•Usenet Provider
 #### ╠• A list of Providers You can go for
-* Eweka
-* Newshosting
-* EasyNews
+* [Eweka](https://www.eweka.nl/)
+* [Newshosting](https://www.newshosting.com/)
+* [EasyNews](https://easynews.com/)
+* [Usenet provider map](https://svgshare.com/i/iG8.svg)
 
 
 
