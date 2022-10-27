@@ -37,7 +37,7 @@ Sample text
 - [word](#word)
 - [](#)
 
-
+**[⬆ Back to Index](#index)**
 ### Windows
 | Websites For Cracked Software:                                                   	| Description           	|
 |----------------------------------------------------------------------------------	|-----------------------	|
@@ -47,7 +47,7 @@ Sample text
 | [M0nkrus](http://w14.monkrus.ws/)                                               	| Torrents              	|
 | [Windows ISO](https://tb.rg-adguard.net/public.php)                             	| DDL                   	|
 | ------------                                                                     	| ------------          	|
-
+**[⬆ Back to Index](#index)**
 ### MacOS
 | Websites For Cracked Software:                      	| Description                           	|
 |-----------------------------------------------------	|---------------------------------------	|
