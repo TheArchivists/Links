@@ -6,36 +6,36 @@ This is a batch of all the resources shared by people in @TheArchivists.
 
 ## Index
 Software
-• [Windows](#Windows)
-• [MacOS](#MacOS)
-• [Microsoft](#Microsoft)
+- [Windows](#Windows)
+- [MacOS](#MacOS)
+- [Microsoft](#Microsoft)
 
 Applications
-• [Android](#Android)
-• [iOS](#iOS)
+- [Android](#Android)
+- [iOS](#iOS)
 
 Games
-• [PC](#PCGames)
-• [Android](#AndroidGames)
+- [PC](#PCGames)
+- [Android](#AndroidGames)
 
 Trackers
-• [Private-Trackers](#PrivateTrackers)
-• [General-Trackers](#GeneralTrackers)
+- [Private-Trackers](#PrivateTrackers)
+- [General-Trackers](#GeneralTrackers)
 
 Usenet
-• [Usenet-Guides](#Usenet-Guides)
-• [Usenet-Indexers](#Usenet-Indexers)
-• [Usenet-Providers](#Usenet-Provider)
+- [Usenet-Guides](#Usenet-Guides)
+- [Usenet-Indexers](#Usenet-Indexers)
+- [Usenet-Providers](#Usenet-Provider)
 
 General Notes
-• [Windows](#Windows)
-• [MacOS](#MacOS)
+- [Windows](#Windows)
+- [MacOS](#MacOS)
 
 Sample text
-• [Word with space](#word-with-space)
-• [Word & word](#word--word)
-• [word](#word)
-• [](#)
+- [Word with space](#word-with-space)
+- [Word & word](#word--word)
+- [word](#word)
+- [](#)
 
 
 ### Windows
@@ -47,3 +47,18 @@ Sample text
 | [M0nkrus](http://w14.monkrus.ws/)                                               	| Torrents              	|
 | [Windows ISO](https://tb.rg-adguard.net/public.php)                             	| DDL                   	|
 | ------------                                                                     	| ------------          	|
+
+### MacOS
+| Websites For Cracked Software:                      	| Description                           	|
+|-----------------------------------------------------	|---------------------------------------	|
+| [cmacked](https://cmacked.com/)                     	|  ?                                    	|
+| [Filecr](https://filecr.com/macos/)                 	| Torrents                              	|
+| [Sanet](https://sanet.st/mac-software/)             	| Nitroflare/Rapidgator                 	|
+| [appstorrent](https://appstorrent.ru/)              	| ?                                      	|
+| [Macdrop](https://macdrop.net/)                     	| Mega                                  	|
+| [Mac-Torrents](https://mac-torrents.io/)            	| Torrents                              	|
+| [Nmac](https://nmac.to/)                            	| turbobit, nitroflare, 1fichier + more 	|
+| [Macapps](https://macapps.xyz/)                     	| dropapk, dropgalaxy                   	|
+| [Haxmac](https://haxmac.cc/)                        	| dropapk, dropgalaxy, usersdrive       	|
+| [Crackhash](https://crackshash.com/category/macos/) 	| Torrent                               	|
+| ------------                                        	| ------------                          	|
