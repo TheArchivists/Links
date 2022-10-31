@@ -80,27 +80,30 @@ Sample text
 ### Android
 | Link       	| Description  	|
 |---------------------	|------------------	|
-| [Mobilism](https://mobilism.org/) 	| Website for modded apps 	|
-| [RBMods](https://t.me/RBMods)  	| Telegram channel	|
-| [ModdedCentral](https://t.me/ModdedCentral2) 	| Telegram channel	|
+| [Mobilism](https://mobilism.org/) 	| Website for modded apps |
+| [RBMods](https://t.me/RBMods)  	| Telegram channel |
+| [ModdedCentral](https://t.me/ModdedCentral2) 	| Telegram channel |
 |---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
 ### iOS
 | Link       	| Description  	|
-|---------------------	|------------------	|
-| [Appdb](https://appdb.to/)    	| Website for modded apps |
-| [Iosgods](https://iosgods.com/)     	| Website for modded apps |
-|---------------------	|------------------	|
+|---------------------	|---------------------	|
+| [Appdb](https://appdb.to/) | Website for modded apps |
+| [Iosgods](https://iosgods.com/) | Website for modded apps |
+| [Cmacked](https://cmacked.com/) | Website for modded apps |
+| [Filecr](https://filecr.com/macos/) | Website for modded apps |
+| [Sanet](https://sanet.st/mac-software/) | Website for modded apps |
+| [Appstorrent](https://appstorrent.ru/) | Website for modded apps |
 
 **[⬆ Back to Index](#index)**
 ### PC-Games
 | Link               	| Description  	    |
 |---------------------	|------------------	|
-| [fitgirl](http://fitgirl-repacks.site/) | Repacks	|
-| [dodi](https://dodi-repacks.site/) | Repacks	|
-| [cs.rin.ru](https://cs.rin.ru/) | Repacks	|
-|---------------------	|------------------	|
+| [fitgirl](http://fitgirl-repacks.site/) | Repacks |
+| [dodi](https://dodi-repacks.site/) | Repacks |
+| [cs.rin.ru](https://cs.rin.ru/) | Repacks |
+|---------------------	|------------------ |
 
 **[⬆ Back to Index](#index)**
 ### Android-Games
@@ -114,6 +117,7 @@ Sample text
 ### Private-Trackers
 | Link               	| Description  	    |
 |---------------------	|------------------	|
+| [Private Trackers Guide](https://rentry.co/private-trackers) | Everything you need to know about private trackers |
 | [Private Trackers Index](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0) | Guides 	|
 | [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) |  Guides	|
 | [Release Groups](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/edit?usp=sharing)  |  Here's a tier list if you wanna know which groups to generally go for/avoid |
@@ -124,7 +128,7 @@ Sample text
 ### General-Trackers
 | Link               	| Description  	    |
 |---------------------	|------------------	|
-| [Private Trackers Guide](https://rentry.co/private-trackers) | Everything you need to know about private trackers | 
+| [.......](..........) | ........... | 
 |---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
@@ -166,14 +170,14 @@ Sample text
 Stuff below this needs to be rewritten a bit 
 
 **[⬆ Back to Index](#index)**
-### Windows-Notes
 
-## •  General Notes :
-#### • Windows:
+
+## •  General Notes
+### Windows-Notes :
 ###### *NOTE1: Monkrus is best for Adobe, Autodesk Stuff*
 ###### *NOTE2: If you meed Microsoft direct links for most windows operating systems Better to use [Windows ISO](https://tb.rg-adguard.net/public.php)*
 ###### *NOTE3: If you want to download software from public torrent sites use [1337](https://1337x.to/) and [Rarbg](http://Rarbg.to). Also make sure to check release group and scan it with Antivirus like [Virustotal](https://virustotal.com/) for example*
 
 **[⬆ Back to Index](#index)**
-### MacOS-Notes
+### MacOS-Notes :
 
