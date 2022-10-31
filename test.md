@@ -36,7 +36,6 @@ Sample text
 - [word](#word)
 - [](#)
 
-
 ### Windows
 | Websites For Cracked Software:                                                   	| Description           	|
 |----------------------------------------------------------------------------------	|-----------------------	|
@@ -44,31 +43,30 @@ Sample text
 | [Getintopc](https://getintopc.com/)                                             	| DDL                   	|
 | [M0nkrus](http://w14.monkrus.ws/)                                               	| Torrents              	|
 | [Windows ISO](https://tb.rg-adguard.net/public.php)                             	| DDL                   	|
-| ------------                                                                     	| ------------          	|
+| [filecr](https://filecr.com/windows/)                                                 | Torrents/DDL         	        |
 
 **[⬆ Back to Index](#index)**
 ### MacOS
 | Websites For Cracked Software:                      	| Description                           	|
 |-----------------------------------------------------	|---------------------------------------	|
-| [Cmacked](https://cmacked.com/)                     	|  ?                                    	|
-| [Filecr](https://filecr.com/macos/)                 	| Torrents                              	|
+| [Cmacked](https://cmacked.com/)                     	| DDL                                  	        |
+| [Filecr](https://filecr.com/macos/)                 	| Torrents/DDL                              	|
 | [Sanet](https://sanet.st/mac-software/)             	| Nitroflare/Rapidgator                 	|
-| [Appstorrent](https://appstorrent.ru/)              	| ?                                      	|
+| [Appstorrent](https://appstorrent.ru/)              	| DDL                                     	|
 | [Macdrop](https://macdrop.net/)                     	| Mega                                  	|
 | [Mac-Torrents](https://mac-torrents.io/)            	| Torrents                              	|
 | [Nmac](https://nmac.to/)                            	| turbobit, nitroflare, 1fichier + more 	|
 | [Macapps](https://macapps.xyz/)                     	| dropapk, dropgalaxy                   	|
 | [Haxmac](https://haxmac.cc/)                        	| dropapk, dropgalaxy, usersdrive       	|
 | [Crackhash](https://crackshash.com/category/macos/) 	| Torrent                               	|
-| ------------                                        	| ------------                          	|
 
+**[⬆ Back to Index](#index)**
 ### Microsoft
 | Windows/Office Activators       	                            | Description  	                                                                |
 |------------------------------------------------------------------ |--------------------------------------------------------------------               |                                         
 | [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | HWID or KMS38 activation for Windows 10/11 + Windows edition switcher             |
 | [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)    | MS activation for Office/Windows                                                  |	                                                                
-| **MacOS Activators**                                                                  | **Description**                                               |
-|                                                                                       |                                                               |                                                        	                                        
+| **MacOS Activators**                                                                  | **Description**                                               |                                                                                       |                                                               |                                                        	                                        
 | [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) | Volume License packages for MacOS                             |
 | [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)                 | current as of Jan 2021                                        |
 
@@ -79,7 +77,7 @@ Sample text
 | [Mobilism](https://mobilism.org/) 	| Website for modded apps |
 | [RBMods](https://t.me/RBMods)  	| Telegram channel |
 | [ModdedCentral](https://t.me/ModdedCentral2) 	| Telegram channel |
-|---------------------	|------------------	|
+| [Modzilla](https://t.me/Modzilla)	| Telegram channel |
 
 **[⬆ Back to Index](#index)**
 ### iOS
@@ -96,7 +94,6 @@ Sample text
 | [fitgirl](http://fitgirl-repacks.site/) | Repacks |
 | [dodi](https://dodi-repacks.site/) | Repacks |
 | [cs.rin.ru](https://cs.rin.ru/) | Repacks |
-|---------------------	|------------------ |
 
 **[⬆ Back to Index](#index)**
 ### Android-Games
@@ -104,7 +101,6 @@ Sample text
 |---------------------	|------------------	|
 | [Androeed](https://www.androeed.ru/) | Website for modded games |
 | [An1](https://an1.com/) | Website for modded games |
-|---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
 ### Private-Trackers
@@ -115,16 +111,13 @@ Sample text
 | [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) |  Guides	|
 | [Release Groups](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/edit?usp=sharing)  |  Here's a tier list if you wanna know which groups to generally go for/avoid |
 | [Scenexp2p](https://www.notion.so/Pirates-c6362fa7a32a47c5904b0509e9ca1cd3) | Article providing basic knowledge and working of scene and p2p trackers 	|
-|---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
-
 ### Usenet-Guides
 | Link               	| Description  	    |
 |---------------------	|------------------	|
 | [Saw's Usenet Guide](https://telegra.ph/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) |  Eveeything you need to know about Usenet	| 
 | [r/Usenet wiki](https://www.reddit.com/r/usenet/wiki/index/) | wiki of Usenet reddit group with loads of resources to help you 	|
-|---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
 ### Usenet-Indexers
@@ -141,23 +134,21 @@ Sample text
 | SimplyNzb |  garbage |
 | OMGWTFNZB | GOD TIER |
 | nzbs | GOD TIER X3 |
-|---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
 ### Usenet-Providers
 | Link               	| Description  	    |
 |---------------------	|------------------	|
-[Eweka](https://www.eweka.nl/) | A list of Providers You can go for |
-[Newshosting](https://www.newshosting.com/)	| A list of Providers You can go for |
-[EasyNews](https://easynews.com/) | A list of Providers You can go for |
-[Usenet provider map](https://svgshare.com/i/iG8.svg) | A list of Providers You can go for |
-|---------------------	|------------------	|
+| [Eweka](https://www.eweka.nl/) | Newsgroup Provider|
+| [Newshosting](https://www.newshosting.com/)	| Newsgroup Provider |
+| [EasyNews](https://easynews.com/) | Newsgroup Provider |
+| [Usenet provider map](https://svgshare.com/i/iG8.svg) | Newsgroup Provider |
+
 
 -----
 Stuff below this needs to be rewritten a bit 
 
 **[⬆ Back to Index](#index)**
-
 
 ## •  General Notes
 ### Windows-Notes :
