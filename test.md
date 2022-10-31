@@ -5,28 +5,28 @@
 This is a batch of all the resources shared by people in @TheArchivists.
 
 ## Index
-Software
+**Software**
 - [Windows](#Windows)
 - [MacOS](#MacOS)
 - [Microsoft](#Microsoft)
 
-Applications
+**Applications**
 - [Android](#Android)
 - [iOS](#iOS)
 
-Games
+**Games**
 - [PC-Games](#PC-Games)
 - [Android-Games](#Android-Games)
 
-Trackers
+**Trackers**
 - [Private-Trackers](#PrivateTrackers)
 
-Usenet
+**Usenet**
 - [Usenet-Guides](#Usenet-Guides)
 - [Usenet-Indexers](#Usenet-Indexers)
 - [Usenet-Providers](#Usenet-Provider)
 
-General Notes
+**General Notes**
 - [Windows-Notes](#Windows-Notes)
 - [Usenet-Notes](#Usenet-Notes)
 
