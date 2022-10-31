@@ -20,7 +20,6 @@ Games
 
 Trackers
 - [Private-Trackers](#PrivateTrackers)
-- [General-Trackers](#GeneralTrackers)
 
 Usenet
 - [Usenet-Guides](#Usenet-Guides)
@@ -41,7 +40,6 @@ Sample text
 ### Windows
 | Websites For Cracked Software:                                                   	| Description           	|
 |----------------------------------------------------------------------------------	|-----------------------	|
-| [Windows](https://github.com/TheArchivists/Links/edit/dev/README.md#-windows-2) 	| Torrents              	|
 | [Sanet/windows](https://sanet.st/windows/)                                      	| Nitroflare/Rapidgator 	|
 | [Getintopc](https://getintopc.com/)                                             	| DDL                   	|
 | [M0nkrus](http://w14.monkrus.ws/)                                               	| Torrents              	|
@@ -52,10 +50,10 @@ Sample text
 ### MacOS
 | Websites For Cracked Software:                      	| Description                           	|
 |-----------------------------------------------------	|---------------------------------------	|
-| [cmacked](https://cmacked.com/)                     	|  ?                                    	|
+| [Cmacked](https://cmacked.com/)                     	|  ?                                    	|
 | [Filecr](https://filecr.com/macos/)                 	| Torrents                              	|
 | [Sanet](https://sanet.st/mac-software/)             	| Nitroflare/Rapidgator                 	|
-| [appstorrent](https://appstorrent.ru/)              	| ?                                      	|
+| [Appstorrent](https://appstorrent.ru/)              	| ?                                      	|
 | [Macdrop](https://macdrop.net/)                     	| Mega                                  	|
 | [Mac-Torrents](https://mac-torrents.io/)            	| Torrents                              	|
 | [Nmac](https://nmac.to/)                            	| turbobit, nitroflare, 1fichier + more 	|
@@ -67,13 +65,13 @@ Sample text
 ### Microsoft
 | Windows/Office Activators       	| Description  	|
 |---------------------	|------------------	|
-| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)                     	| HWID or KMS38 activation for Windows 10/11 + Windows edition switcher 	|
-| [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)                        	| MS activation for Office/Windows                                      	|
-|---------------------	|------------------	|
-| **MacOS Activators**                                                             	| **Description**                                                           	|
-|---------------------	|------------------	|
-| [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) 	| Volume License packages for MacOS                                     	|
-| [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)                 	| current as of Jan 2021                                                	|
+| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | HWID or KMS38 activation for Windows 10/11 + Windows edition switcher |
+| [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) | MS activation for Office/Windows |
+|	                |
+| **MacOS Activators**                          | **Description** |
+|                       |                       |
+| [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) | Volume License packages for MacOS                                     	|
+| [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29) | current as of Jan 2021                                                	|
 |---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
@@ -91,10 +89,7 @@ Sample text
 |---------------------	|---------------------	|
 | [Appdb](https://appdb.to/) | Website for modded apps |
 | [Iosgods](https://iosgods.com/) | Website for modded apps |
-| [Cmacked](https://cmacked.com/) | Website for modded apps |
-| [Filecr](https://filecr.com/macos/) | Website for modded apps |
-| [Sanet](https://sanet.st/mac-software/) | Website for modded apps |
-| [Appstorrent](https://appstorrent.ru/) | Website for modded apps |
+| [Ioshaven](https://ioshaven.com/apps) | Website for modded apps |
 
 **[⬆ Back to Index](#index)**
 ### PC-Games
@@ -125,13 +120,7 @@ Sample text
 |---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
-### General-Trackers
-| Link               	| Description  	    |
-|---------------------	|------------------	|
-| [.......](..........) | ........... | 
-|---------------------	|------------------	|
 
-**[⬆ Back to Index](#index)**
 ### Usenet-Guides
 | Link               	| Description  	    |
 |---------------------	|------------------	|
