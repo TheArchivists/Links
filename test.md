@@ -63,16 +63,14 @@ Sample text
 | ------------                                        	| ------------                          	|
 
 ### Microsoft
-| Windows/Office Activators       	| Description  	|
-|---------------------	|------------------	|
-| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | HWID or KMS38 activation for Windows 10/11 + Windows edition switcher |
-| [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) | MS activation for Office/Windows |
-|	                |
-| **MacOS Activators**                          | **Description** |
-|                       |                       |
-| [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) | Volume License packages for MacOS                                     	|
-| [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29) | current as of Jan 2021                                                	|
-|---------------------	|------------------	|
+| Windows/Office Activators       	                            | Description  	                                                                |
+|------------------------------------------------------------------ |--------------------------------------------------------------------               |                                         
+| [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | HWID or KMS38 activation for Windows 10/11 + Windows edition switcher             |
+| [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)    | MS activation for Office/Windows                                                  |	                                                                
+| **MacOS Activators**                                                                  | **Description**                                               |
+|                                                                                       |                                                               |                                                        	                                        
+| [MacOS Microsoft Office Guide](https://telegra.ph/MacOS-Microsoft-Office-Guide-11-29) | Volume License packages for MacOS                             |
+| [MacOS Adobe CC Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)                 | current as of Jan 2021                                        |
 
 **[⬆ Back to Index](#index)**
 ### Android
@@ -104,8 +102,8 @@ Sample text
 ### Android-Games
 | Link               	| Description  	    |
 |---------------------	|------------------	|
-| [Androeed](https://www.androeed.ru/) | Website for modded apps 	|
-| [An1](https://an1.com/) | Website for modded apps 	|
+| [Androeed](https://www.androeed.ru/) | Website for modded games |
+| [An1](https://an1.com/) | Website for modded games |
 |---------------------	|------------------	|
 
 **[⬆ Back to Index](#index)**
