@@ -28,13 +28,7 @@ Usenet
 
 General Notes
 - [Windows-Notes](#Windows-Notes)
-- [MacOS-Notes](#MacOS-Notes)
-
-Sample text
-- [Word with space](#word-with-space)
-- [Word & word](#word--word)
-- [word](#word)
-- [](#)
+- [Usenet-Notes](#Usenet-Notes)
 
 ### Windows
 | Websites For Cracked Software:                                                   	| Description           	|
@@ -72,20 +66,18 @@ Sample text
 
 **[⬆ Back to Index](#index)**
 ### Android
-| Link       	| Description  	|
+| Link        	        | Description  	|
 |---------------------	|------------------	|
-| [Mobilism](https://mobilism.org/) 	| Website for modded apps |
+| [Mobilism](https://mobilism.org/) 	| Website for modded apps (DDL) |
 | [RBMods](https://t.me/RBMods)  	| Telegram channel |
-| [ModdedCentral](https://t.me/ModdedCentral2) 	| Telegram channel |
 | [Modzilla](https://t.me/Modzilla)	| Telegram channel |
 
 **[⬆ Back to Index](#index)**
 ### iOS
-| Link       	| Description  	|
+| Link       	        | Description  	|
 |---------------------	|---------------------	|
-| [Appdb](https://appdb.to/) | Website for modded apps |
-| [Iosgods](https://iosgods.com/) | Website for modded apps |
-| [Ioshaven](https://ioshaven.com/apps) | Website for modded apps |
+| [Appdb](https://appdb.to/) | Website for modded apps (DDL) |
+| [Ioshaven](https://ioshaven.com/apps) | Website for modded apps (DDL) |
 
 **[⬆ Back to Index](#index)**
 ### PC-Games
@@ -118,6 +110,7 @@ Sample text
 |---------------------	|------------------	|
 | [Saw's Usenet Guide](https://telegra.ph/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) |  Eveeything you need to know about Usenet	| 
 | [r/Usenet wiki](https://www.reddit.com/r/usenet/wiki/index/) | wiki of Usenet reddit group with loads of resources to help you 	|
+| [Nerosbb](https://nerosbb.com/) | Ultimate Usenet Guide
 
 **[⬆ Back to Index](#index)**
 ### Usenet-Indexers
@@ -144,10 +137,6 @@ Sample text
 | [EasyNews](https://easynews.com/) | Newsgroup Provider |
 | [Usenet provider map](https://svgshare.com/i/iG8.svg) | Newsgroup Provider |
 
-
------
-Stuff below this needs to be rewritten a bit 
-
 **[⬆ Back to Index](#index)**
 
 ## •  General Notes
@@ -157,5 +146,8 @@ Stuff below this needs to be rewritten a bit
 ###### *NOTE3: If you want to download software from public torrent sites use [1337](https://1337x.to/) and [Rarbg](http://Rarbg.to). Also make sure to check release group and scan it with Antivirus like [Virustotal](https://virustotal.com/) for example*
 
 **[⬆ Back to Index](#index)**
-### MacOS-Notes :
+### Usenet-Notes :
+###### *NOTE1: The Opinion of Usenet Indexers is a gernal opinion by *some* people and not something you should trust blindly without doing your own research. Check all the Usenet guides and then only decide for yourself*
+###### *NOTE2: Usenet Providers are must for Usenet. Only indexers won't help you*
 
+**[⬆ Back to Index](#index)**
